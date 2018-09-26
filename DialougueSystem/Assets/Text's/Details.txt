@@ -1,0 +1,54 @@
+ <This universe populations:>
+	Human population = 260 biljoen lives
+	Dryadalis population = 120 biljoen
+	Noctis population = 220 biljoen lives
+Population charecteristics:
+	<Human:>
+	Not much diffrent from today the only difrence is they're ideology, no longer are they focused on their so called countries, now they only see the world they live on and the
+	Federation that that world belongse to. 
+	There are 6 main federations with some minor ones(For the worlds that aren't up to standaart). The main six federations are the freedom federation made up by worlds that where freed 
+	from the emperial federation in the sector wars between the Exercitus federation and the emperial federation they are ruled by the world counsel, the poeple's federation is a 
+	federation made up by worlds that wish to keep neutral(They are seen as a bunch of greedy merchants that keep a army so that they can keep they're intrests)ruled by the 
+	grand councel, the Exercitus federation a federation made up by ex mercenary planets(Planets that didn't belong to any federation and sold their serves to them)ruled by 3 
+	great mercenary groups, the emperial federation formed by the wealthy noble's(Earth noble's where created from the remains of the royal families of europe they where the first to 
+	capitelize on the Locus system) from the human home planet earth which is their capital to this very day(Ruled by the royal famaly/the emperor), the christ federation is
+	a federation based on religion(catholic) belefing that the locust system came from god and that the poeple who awakened to it's power were blessed holy poeple chosen by god
+	these chosen ones have a stable and grand life but the poeple without the power are left to rot and to serve the chosen few, The Rimor is a new federation made up of outer rim 
+	worlds they pursue the exploration of the outer rim many of their worlds are based around this premese of exploratorie pursuit.
+	Most of their ships and classes are mechanic with some rare exceptions.
+	All federations: 
+		Rimor, Freedom federation, emperial federation, Exercitus, Poeple's federation, Christ
+	population per federation:
+		Rimor = 27 biljoen, Freedom = 46 biljoen, Emperial = 39 biljoen, christ 55 biljoen, poeple's = 30 biljoen, Exercitus = 23 biljoen.
+	Dryadalis:
+		Dryadalis or a dryad is a large humanoid standing at 2.30 Meters tall looking like a elongated europian with a ligt greenish skin complection.
+		The Dryad's live on planets with as much greenery as possible. Their poeple aren't divided as the humans but stick together. The dryad cities are mostly described as green,
+		this is because dryads need plants to survive for they are herbevores, they however like humans do keep pets(mostly birds and wolfs).
+		The Dryads are a kingdom ruled by their sole queen Elisia caelum, the kingdom is called after the royal caelum family.
+		They also have 4 noble families who are extreemly loyal to th Caelum royal family, these families are the Lupus known for taming wolfes and their gorilla warfare tactics,
+		the Ibis family know to train owlse as night scouts also known for their information and tracking tactics, the Accipiter family known for training hawks to find good sniper
+		posistions and to find enemies also known for their long range combat tactics, the vultur family known for their survival tactics they are known to train vultures to find
+		food and potential threats.
+		The noble family's act as emissaries for the royal family and have their own army's named after their respective family. There is also the royal army which is the biggest.
+	Amount of poeple awakend to Locus:
+		Human 65% of the population since 4618 AD 25 years before our story(4643 AD).
+		Drydalis 42% of the population since 4618 AD.
+		Noctis 14% of the population since 4618 AD.
+	Amount of solar systems owned per owner:
+		Caelum kingdom = 56 solar systems, 13 planets/moons that support  live. Total amount of planets 336.
+		Rimor = 16 solar systems, 5 planets/moons that support live. Total amount of planets 112.
+		Freedom federation = 20 solar systems, 7 planets/moons that support live. Total amount of planets 120.
+		Emperial = 27 solar systems, 9 planets/moons that support live. Total amount of planets 243.
+		christ = 16 solar systems, 2 planets/moons that support live. Total amount of planets 100.
+		poeple's federation = 20 solar systems, 6 planets/moons that support live. Total amount of planets 116.
+		Exercitus = 15 solar systems, 4 planets/moons that support live. Total amount of planets 97.
+Words:
+	Locus = space
+	Exercitus = army
+	Noctis = night
+	Dryadalis = elf
+	rimor = explorer
+	caelum = heaven
+	accipiter = Hawk
+	Ibis = owl
+	Lupus = wolf
