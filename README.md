@@ -1,4 +1,5 @@
 # Dialogue System
+Deze opdracht was orgineel voor school.
 [prestatie-indicatoren](https://drive.google.com/drive/folders/1y8l0Zr4E8b6gYJui_pSzQaoWr-gEr6JN?usp=sharing)**. Deze toon je aan in dit document.*
 
 Ik heb gekozen om een Dialogue system te maken, ik heb deze keuzen gemaakt omdat ik het interessant vond en omdat ik een UI developer wil worden.
