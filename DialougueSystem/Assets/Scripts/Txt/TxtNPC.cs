@@ -30,7 +30,6 @@ public class TxtNPC : MonoBehaviour {
 
     public void StartDialog()
     {
-
         animator.SetBool("IsOpen", true);
         Debug.Log(animator.GetBool("IsOpen"));
         _senten.Clear();
@@ -41,8 +40,7 @@ public class TxtNPC : MonoBehaviour {
         }
 
         _sentences = _senten.Dequeue();
-
-       // DisplaySentence();
+        
         CheckName();
     }
 
@@ -51,7 +49,6 @@ public class TxtNPC : MonoBehaviour {
         if (_senten.Count == 0)
         {
             EndDialogue();
-            return;
         }
 
         if (!_writing)
@@ -60,7 +57,6 @@ public class TxtNPC : MonoBehaviour {
             if (_sentences.Contains("<"))
             {
                 CheckName();
-                return;
             }
             else
             {
@@ -101,7 +97,7 @@ public class TxtNPC : MonoBehaviour {
         if (_sentences.Contains("<"))
         {
             string name;
-            name = _sentences.Substring(_sentences.IndexOf("<") + 1, _sentences.IndexOf(">") - 1);
+            name = _sentences.Substring(_sentences.IndexOf("<") + 1, _sentences.IndexOf(">") - 2);
             Debug.Log(name);
             nameText.text = name;
             _namer = true;
